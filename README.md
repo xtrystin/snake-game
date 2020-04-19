@@ -1,1 +1,1 @@
-simple snake game in C++
+simple snake game C++
